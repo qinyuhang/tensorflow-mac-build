@@ -1,1 +1,2 @@
 rmbp2018/CPU-only/tf_nightly-2.1.0-cp38-cp38-macosx_10_15_x86_64.whl filter=lfs diff=lfs merge=lfs -text
+rmbp2018/CPU-only/tensorflow-2.1.0-cp38-cp38-macosx_10_15_x86_64.whl filter=lfs diff=lfs merge=lfs -text
